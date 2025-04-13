@@ -1,0 +1,4 @@
+module AppAuth {
+    umbrella "/Users/orangecloud/Desktop/PROJECTS/GOOGLE/openid_AppAuth-iOS/Sources/AppAuth"
+    export *
+}

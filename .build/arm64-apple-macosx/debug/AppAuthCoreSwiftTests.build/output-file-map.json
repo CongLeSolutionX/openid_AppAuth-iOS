@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/orangecloud/Desktop/PROJECTS/GOOGLE/openid_AppAuth-iOS/.build/arm64-apple-macosx/debug/AppAuthCoreSwiftTests.build/master.swiftdeps"
+  },
+  "/Users/orangecloud/Desktop/PROJECTS/GOOGLE/openid_AppAuth-iOS/UnitTests/OIDSwiftTests.swift": {
+    "dependencies": "/Users/orangecloud/Desktop/PROJECTS/GOOGLE/openid_AppAuth-iOS/.build/arm64-apple-macosx/debug/AppAuthCoreSwiftTests.build/OIDSwiftTests.d",
+    "object": "/Users/orangecloud/Desktop/PROJECTS/GOOGLE/openid_AppAuth-iOS/.build/arm64-apple-macosx/debug/AppAuthCoreSwiftTests.build/OIDSwiftTests.swift.o",
+    "swiftmodule": "/Users/orangecloud/Desktop/PROJECTS/GOOGLE/openid_AppAuth-iOS/.build/arm64-apple-macosx/debug/AppAuthCoreSwiftTests.build/OIDSwiftTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/orangecloud/Desktop/PROJECTS/GOOGLE/openid_AppAuth-iOS/.build/arm64-apple-macosx/debug/AppAuthCoreSwiftTests.build/OIDSwiftTests.swiftdeps"
+  }
+}

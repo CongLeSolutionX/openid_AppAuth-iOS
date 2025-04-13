@@ -1,0 +1,4 @@
+module AppAuthPackageTests {
+    header "/Users/orangecloud/Desktop/PROJECTS/GOOGLE/openid_AppAuth-iOS/.build/arm64-apple-macosx/debug/AppAuthPackageTests.build/AppAuthPackageTests-Swift.h"
+    requires objc
+}
